@@ -1,0 +1,5 @@
+code_files
+tmp
+__pycache__
+.ipynb_checkpoints
+emb.pickle
