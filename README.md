@@ -36,7 +36,7 @@ Other Approaches:
 2.	Fine-Tuning a Bert model  to predict genres and extracting features from it.
  
 
-Project Setup :
+## Project Setup :
 
 1.	Unzip the code files.
 2.	Create a folder “tmp”.
